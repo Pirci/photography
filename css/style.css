@@ -1,4 +1,8 @@
+/* Import font style */
+
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/* Core style */
 
 body {
   font-family: "Roboto", sans-serif;
@@ -32,6 +36,8 @@ main {
   box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.2),
     -30px 0px 40px rgba(0, 0, 0, 0.2);
 }
+
+/* Landing style */
 
 #landing {
   background: #fff;
@@ -76,6 +82,8 @@ main {
   background: #f4f4f4;
 }
 
+/* Header style */
+
 #header {
   padding: 1.5rem;
   text-align: center;
@@ -95,6 +103,8 @@ main {
   text-align: center;
 }
 
+/* Footer style */
+
 footer {
   text-align: center;
   padding: 2rem 1rem;
@@ -107,7 +117,9 @@ footer h3 {
   margin-bottom: 0;
 }
 
-/* Screen Sizes 500px and Up */
+/* Media Quaries for mobile and tablet view */
+
+/* Screen Sizes 500px and Up (Mobile phones) */
 
 @media (min-width: 500px) {
   #landing {
@@ -124,7 +136,8 @@ footer h3 {
   }
 }
 
-/* Screen Sizes 700px and Up */
+/* Screen Sizes 700px and Up (Tablets) */
+
 @media (min-width: 700px) {
   .btn {
     padding: 1rem 3rem;
