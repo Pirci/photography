@@ -12,7 +12,7 @@ Preview: https://pirci.github.io/photography/
 
 ## What I Learned:
 
-- Creating a full page landing page
+- Responsive single page photography website using a mobile first approach with just HTML5 and CSS3
 - Position image & text accordingly via Flexbox
 - Multiple formatting with common class usage
 
