@@ -1,8 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Photography Responsive Page
 
-> HTML & CSS #2nd Tutorial Project (Photography).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
+> HTML & CSS Photography Project.
 
 ## Live Demo
 
